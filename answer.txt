@@ -2,7 +2,7 @@
 Answer: 137978 hosts únicos
 2. O total de erros 404
 Answer: 20901 erros
-3. Os 5 URLs que mais cuasaram erro 404
+3. As 5 URLs que mais causaram erro 404
 Answer: hoohoo.ncsa.uiuc.edu, piweba3y.prodigy.com, jbiagioni.npt.nuwc.navy.mil, piweba1y.prodigy.com, www-d4.proxy.aol.com
 4. Quantidade de erros 404 por dia
 Answer: dia: 1: 572 erros 404

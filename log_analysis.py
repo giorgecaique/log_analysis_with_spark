@@ -95,7 +95,7 @@ def main():
     answer += 'Answer: {0} erros\n'.format(total_404_errors)
     
     
-    # 3. Os​ ​5​ ​URLs​ ​que​ ​mais​ ​causaram​ ​erro​ ​404
+    # 3. As​ ​5​ ​URLs​ ​que​ ​mais​ ​causaram​ ​erro​ ​404
     
     urls_with_most_404_errors = df.where(df.status_code == 404)\
         .groupBy('host')\
@@ -107,7 +107,7 @@ def main():
         
     urls_with_most_404_errors = [row['host'] for row in urls_with_most_404_errors]
         
-    answer += '3. Os 5 URLs que mais cuasaram erro 404\n'
+    answer += '3. As 5 URLs que mais causaram erro 404\n'
     answer += 'Answer: {0}\n'.format(', '.join(urls_with_most_404_errors))
     
     # 4. Quantidade​ ​de​ ​erros​ ​404​ ​por​ ​dia
