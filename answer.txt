@@ -1,0 +1,40 @@
+1. Número total de hosts únicos
+Answer: 137978 hosts únicos
+2. O total de erros 404
+Answer: 20901 erros
+3. Os 5 URLs que mais cuasaram erro 404
+Answer: hoohoo.ncsa.uiuc.edu, piweba3y.prodigy.com, jbiagioni.npt.nuwc.navy.mil, piweba1y.prodigy.com, www-d4.proxy.aol.com
+4. Quantidade de erros 404 por dia
+Answer: dia: 1: 572 erros 404
+dia: 2: 276 erros 404
+dia: 3: 753 erros 404
+dia: 4: 718 erros 404
+dia: 5: 712 erros 404
+dia: 6: 1036 erros 404
+dia: 7: 1103 erros 404
+dia: 8: 713 erros 404
+dia: 9: 632 erros 404
+dia: 10: 691 erros 404
+dia: 11: 765 erros 404
+dia: 12: 640 erros 404
+dia: 13: 752 erros 404
+dia: 14: 714 erros 404
+dia: 15: 576 erros 404
+dia: 16: 491 erros 404
+dia: 17: 696 erros 404
+dia: 18: 722 erros 404
+dia: 19: 860 erros 404
+dia: 20: 725 erros 404
+dia: 21: 650 erros 404
+dia: 22: 457 erros 404
+dia: 23: 590 erros 404
+dia: 24: 734 erros 404
+dia: 25: 890 erros 404
+dia: 26: 702 erros 404
+dia: 27: 714 erros 404
+dia: 28: 511 erros 404
+dia: 29: 416 erros 404
+dia: 30: 539 erros 404
+dia: 31: 551 erros 404
+5. O total de bytes retornados
+Answer: 65524314915 bytes
