@@ -32,12 +32,12 @@ def structure_log(row):
         return None
     
     match_timestamp = re.search('\[.*\]', row)
-    tmstmp = match_timestamp.group(0) if bool(match_timestamp) else None
-    tmstmp = re.sub('\[|\]', '', tmstmp)
+    tmstmp = match_timestamp.group(0)
+    tmstmp = re.sub('\[|\]', '', tmstmp) # remove brackets from timestamp
     
     match_request = re.search('".*"', row)
-    request = match_request.group(0) if bool(match_request) else None
-    request = request.replace('"', '')
+    request = match_request.group(0)
+    request = request.replace('"', '') # remove quotes from request
     
     result = {
         'host' : row.split('- -')[0].strip(),
