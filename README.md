@@ -12,7 +12,7 @@ Ao final do processamento, um arquivo answer.txt é gerado contendo as respostas
 Answer: 137978 hosts únicos<br>
 **2. O total de erros 404**<br>
 Answer: 20901 erros<br>
-**3. Os 5 URLs que mais cuasaram erro 404**<br>
+**3. As 5 URLs que mais causaram erro 404**<br>
 Answer: hoohoo.ncsa.uiuc.edu, piweba3y.prodigy.com, jbiagioni.npt.nuwc.navy.mil, piweba1y.prodigy.com, www-d4.proxy.aol.com<br>
 **4. Quantidade de erros 404 por dia**<br>
 Answer: dia: 1: 572 erros 404<br>
