@@ -1,6 +1,6 @@
-# Teste técnico para a vaga de Engenheiro de Dados da Semantix
+# Log Analysis with PySpark
 
-Para este teste, foi utilizada a linguagem Python para o desenvolvimento.
+Foi utilizada a linguagem Python para o desenvolvimento.
 
 Fora das bibliotecas do pyspark, foi utilizada somente a lib **re** para tratar dos regex aplicados.
 
